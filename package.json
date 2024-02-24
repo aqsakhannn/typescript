@@ -1,5 +1,5 @@
 {
-  "name": "4.-famous_quote",
+  "name": "5.-famous_quote2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.11.17"
+    "@types/node": "^20.11.19"
   }
 }
